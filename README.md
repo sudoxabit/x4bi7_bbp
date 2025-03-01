@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## ▶️ Usage  
 ```bash
-python extractor.py
+python x4bi7_brh.py
 ```
 Enter the filename containing the subdomains when prompted.
 
